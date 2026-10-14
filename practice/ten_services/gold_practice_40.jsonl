@@ -1,0 +1,40 @@
+{"question": "كم رسوم إصدار بطاقة مكتبة الروبوت؟", "expected_doc": "D01", "expected_answer_contains": ["5"]}
+{"question": "شو الأوراق المطلوبة لـإصدار بطاقة مكتبة الروبوت؟", "expected_doc": "D01", "expected_answer_contains": ["بطاقة تعريف وصورة شخصية"]}
+{"question": "كم مدة إنجاز إصدار بطاقة مكتبة الروبوت؟", "expected_doc": "D01", "expected_answer_contains": ["يومان"]}
+{"question": "ما الشروط والاستثناءات لـإصدار بطاقة مكتبة الروبوت؟", "expected_doc": "D01", "expected_answer_contains": ["من عمره أقل من 18 سنة معفى من الرسم"]}
+{"question": "كم رسوم حجز قاعة الابتكار؟", "expected_doc": "D02", "expected_answer_contains": ["20"]}
+{"question": "شو الأوراق المطلوبة لـحجز قاعة الابتكار؟", "expected_doc": "D02", "expected_answer_contains": ["طلب حجز مع قائمة الحضور"]}
+{"question": "كم مدة إنجاز حجز قاعة الابتكار؟", "expected_doc": "D02", "expected_answer_contains": ["ثلاثة أيام"]}
+{"question": "ما الشروط والاستثناءات لـحجز قاعة الابتكار؟", "expected_doc": "D02", "expected_answer_contains": ["يجب الحجز قبل الفعالية بسبعة أيام"]}
+{"question": "كم رسوم تصريح فعالية علمية؟", "expected_doc": "D03", "expected_answer_contains": ["12"]}
+{"question": "شو الأوراق المطلوبة لـتصريح فعالية علمية؟", "expected_doc": "D03", "expected_answer_contains": ["نموذج الفعالية وخطة السلامة"]}
+{"question": "كم مدة إنجاز تصريح فعالية علمية؟", "expected_doc": "D03", "expected_answer_contains": ["خمسة أيام"]}
+{"question": "ما الشروط والاستثناءات لـتصريح فعالية علمية؟", "expected_doc": "D03", "expected_answer_contains": ["الفعاليات التعليمية المدرسية تحتاج موافقة المشرف"]}
+{"question": "كم رسوم تسجيل نادي البرمجة؟", "expected_doc": "D04", "expected_answer_contains": ["3"]}
+{"question": "شو الأوراق المطلوبة لـتسجيل نادي البرمجة؟", "expected_doc": "D04", "expected_answer_contains": ["بطاقة طالب ورسالة موافقة"]}
+{"question": "كم مدة إنجاز تسجيل نادي البرمجة؟", "expected_doc": "D04", "expected_answer_contains": ["يوم واحد"]}
+{"question": "ما الشروط والاستثناءات لـتسجيل نادي البرمجة؟", "expected_doc": "D04", "expected_answer_contains": ["العمر دون 12 سنة يحتاج ولي أمر"]}
+{"question": "كم رسوم إصدار شهادة مشاركة؟", "expected_doc": "D05", "expected_answer_contains": ["2"]}
+{"question": "شو الأوراق المطلوبة لـإصدار شهادة مشاركة؟", "expected_doc": "D05", "expected_answer_contains": ["رقم الاشتراك وإثبات الحضور"]}
+{"question": "كم مدة إنجاز إصدار شهادة مشاركة؟", "expected_doc": "D05", "expected_answer_contains": ["يومان"]}
+{"question": "ما الشروط والاستثناءات لـإصدار شهادة مشاركة؟", "expected_doc": "D05", "expected_answer_contains": ["تصدر فقط لمن استكمل حضور الورشة"]}
+{"question": "كم رسوم تجديد بطاقة زائر؟", "expected_doc": "D06", "expected_answer_contains": ["7"]}
+{"question": "شو الأوراق المطلوبة لـتجديد بطاقة زائر؟", "expected_doc": "D06", "expected_answer_contains": ["البطاقة السابقة وإثبات العنوان"]}
+{"question": "كم مدة إنجاز تجديد بطاقة زائر؟", "expected_doc": "D06", "expected_answer_contains": ["أربعة أيام"]}
+{"question": "ما الشروط والاستثناءات لـتجديد بطاقة زائر؟", "expected_doc": "D06", "expected_answer_contains": ["المفقودة لا تجدد بل يطلب بدل فاقد"]}
+{"question": "كم رسوم حجز مختبر الإلكترونيات؟", "expected_doc": "D07", "expected_answer_contains": ["15"]}
+{"question": "شو الأوراق المطلوبة لـحجز مختبر الإلكترونيات؟", "expected_doc": "D07", "expected_answer_contains": ["نموذج الحجز واسم المدرب"]}
+{"question": "كم مدة إنجاز حجز مختبر الإلكترونيات؟", "expected_doc": "D07", "expected_answer_contains": ["يومان"]}
+{"question": "ما الشروط والاستثناءات لـحجز مختبر الإلكترونيات؟", "expected_doc": "D07", "expected_answer_contains": ["المختبر محجوز لذوي التدريب السابق"]}
+{"question": "كم رسوم طلب نسخة وثيقة تجريبية؟", "expected_doc": "D08", "expected_answer_contains": ["4"]}
+{"question": "شو الأوراق المطلوبة لـطلب نسخة وثيقة تجريبية؟", "expected_doc": "D08", "expected_answer_contains": ["رقم المعاملة والبطاقة الشخصية"]}
+{"question": "كم مدة إنجاز طلب نسخة وثيقة تجريبية؟", "expected_doc": "D08", "expected_answer_contains": ["ثلاثة أيام"]}
+{"question": "ما الشروط والاستثناءات لـطلب نسخة وثيقة تجريبية؟", "expected_doc": "D08", "expected_answer_contains": ["النسخة الرقمية تحتاج بريد إلكتروني فعال"]}
+{"question": "كم رسوم ترخيص معرض طلابي؟", "expected_doc": "D09", "expected_answer_contains": ["10"]}
+{"question": "شو الأوراق المطلوبة لـترخيص معرض طلابي؟", "expected_doc": "D09", "expected_answer_contains": ["خطة المعرض وقائمة المشاركين"]}
+{"question": "كم مدة إنجاز ترخيص معرض طلابي؟", "expected_doc": "D09", "expected_answer_contains": ["سبعة أيام"]}
+{"question": "ما الشروط والاستثناءات لـترخيص معرض طلابي؟", "expected_doc": "D09", "expected_answer_contains": ["لا يسمح ببيع منتجات تجارية ضمن المعرض"]}
+{"question": "كم رسوم حجز ورشة الذكاء الاصطناعي؟", "expected_doc": "D10", "expected_answer_contains": ["6"]}
+{"question": "شو الأوراق المطلوبة لـحجز ورشة الذكاء الاصطناعي؟", "expected_doc": "D10", "expected_answer_contains": ["الهوية واستبيان المهارات"]}
+{"question": "كم مدة إنجاز حجز ورشة الذكاء الاصطناعي؟", "expected_doc": "D10", "expected_answer_contains": ["أربعة أيام"]}
+{"question": "ما الشروط والاستثناءات لـحجز ورشة الذكاء الاصطناعي؟", "expected_doc": "D10", "expected_answer_contains": ["الأولوية للمتقدمين في الفترة الأولى"]}
