@@ -1,0 +1,48 @@
+winget install -e --id Python.Python.3.11
+winget install -e --id Ollama.Ollama
+
+---
+
+py -3.11 --version
+ollama --version
+nvidia-smi
+
+---
+
+py -3.11 --version
+ollama --version
+nvidia-smi
+
+---
+
+powershell -ExecutionPolicy Bypass -File .\scripts\setup_windows.ps1
+
+---
+
+ollama pull qwen3:8b
+ollama list
+
+---
+
+powershell -ExecutionPolicy Bypass -File .\scripts\run_demo.ps1 -Model qwen3:8b
+
+---
+
+powershell -ExecutionPolicy Bypass -File .\scripts\competition_start.ps1 -Model 'MODEL_TAG'
+
+---
+
+powershell -ExecutionPolicy Bypass -File .\scripts\setup_windows.ps1 -WithVoice
+
+---
+
+.\.venv\Scripts\python.exe -m burhan --model qwen3:8b voice --seconds 6
+
+---
+
+.\.venv\Scripts\python.exe -m burhan --model qwen3:8b voice --seconds 6 --speak
+
+---
+
+tesseract --list-langs
+
