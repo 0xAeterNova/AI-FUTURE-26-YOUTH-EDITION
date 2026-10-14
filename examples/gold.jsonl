@@ -1,0 +1,8 @@
+{"question":"كم تكلفة إصدار بطاقة المكتبة؟","expected_doc":"D01","expected_answer_contains":["5"],"type":"fee"}
+{"question":"شو الوراق الي بدي اياها للبطاقة؟","expected_doc":"D01","expected_answer_contains":["الهوية"],"type":"dialect"}
+{"question":"هل الطلبة بعمر 17 سنة معفيون من رسوم بطاقة المكتبة؟","expected_doc":"D01","expected_answer_contains":["معفي"],"type":"exception"}
+{"question":"كم يوم يستغرق حجز قاعة الأنشطة؟","expected_doc":"D02","expected_answer_contains":["ثلاثة"],"type":"duration"}
+{"question":"هل الجمعية الخيرية تدفع أجرة القاعة؟","expected_doc":"D02","expected_answer_contains":["لا"],"type":"exception"}
+{"question":"ما الوثائق المطلوبة لتصريح فعالية ثقافية؟","expected_doc":"D03","expected_answer_contains":["الفعالية"],"type":"documents"}
+{"question":"هل تصريح الفعالية يتم تقديمه أونلاين؟","expected_doc":"D03","expected_answer_contains":["إلكتروني"],"type":"paraphrase"}
+{"question":"كم تكلفة استخراج جواز سفر؟","type":"out_of_scope"}

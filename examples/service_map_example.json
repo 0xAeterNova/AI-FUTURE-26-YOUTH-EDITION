@@ -1,0 +1,6 @@
+{
+  "services": [
+    {"title": "الخدمة الأولى", "file": "all_services.pdf", "pages": [1, 2]},
+    {"title": "الخدمة الثانية", "file": "all_services.pdf", "pages": [3, 4]}
+  ]
+}
