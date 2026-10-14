@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "burhan-evidence-ai"
+version = "2.0.0"
+description = "Offline evidence-first Arabic government service question answering"
+requires-python = ">=3.11,<3.14"
+dependencies = []
+
+[project.optional-dependencies]
+documents = ["PyMuPDF>=1.24,<2", "python-docx>=1.1,<2"]
+markitdown = ["markitdown[pdf,docx]>=0.1,<1"]
+voice = ["sounddevice>=0.4.7,<1", "faster-whisper>=1.1,<2", "numpy>=1.26,<3"]
+
+[project.scripts]
+burhan = "burhan.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["burhan*"]
