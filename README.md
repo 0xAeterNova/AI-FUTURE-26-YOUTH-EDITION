@@ -1,4 +1,4 @@
-# بُرهان 2.0 | BURHAN — Arabic government-service QA
+# بُرهان | BURHAN: Arabic government-service QA
 
 **Start here:** [README_WINDOWS.md](README_WINDOWS.md). This edition targets Windows 11 + RTX 5060 Ti 8GB, Intel i5-13400F, and 16GB RAM.
 
